@@ -13,7 +13,7 @@ import tkinter as tk
 from re import search
 
 # Global
-file_path = 'C:\\Users\\A38579\\.gitconfig'
+file_path = 'path_to_.gitconfig'
 
 
 # Functions
